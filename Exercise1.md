@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercise 1 - Dart Basics
 This exercise is expected you to get yourself familiarize with very basics of Dart Programming Language. These exercises assume you already have setup your environment for working with Dart.
 
 ## Instructions
