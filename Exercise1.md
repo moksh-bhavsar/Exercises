@@ -2,14 +2,12 @@
 This exercise is expected you to get yourself familiarize with very basics of Dart Programming Language. These exercises assume you already have setup your environment for working with Dart.
 
 ## Instructions
-------------------
 * You are required to setup the environment that you are planning to use this term for this course
 * You can also use online compilers if you want, however, installing IDEs on your local machine gives you more freedom and control
 * You can work on multiple IDEs as well to get a feel of how they work. This would give you a choice of using among various IDEs.
 * This exercise is for your practice, no need to submit it for marking.
 
 ## Questions
-------------------
 1.	Use any loop in Dart to show a mathematical table for 5 starting from 1 to 10, e.g., `5 * 1 = 5, 5 * 2 = 10` etc.
 2.	Take a list of numbers in Dart and show all the elements of the list that are less than 10.
 3.	Take two lists and write a program that returns a list that contains only the elements that are common between them (without duplicates).
